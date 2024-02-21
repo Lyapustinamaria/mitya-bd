@@ -43,14 +43,14 @@ const GeneralPresent = () => {
                 </div>
             ) : (
                 <div class="container-fluid">
-                    <h1>Подарочек!</h1>
-                    <p>
+                    <h1 class="mb-3">Подарочек!</h1>
+                    <p class="mb-3">
                         Чтобы получить главный подарок, тебе нужно повнимательнее присмотреться к тексту и отгадать ребус. 
                         Ключом к ребусу будет название твоего подарка. 
                         Впиши ответ на латинице в поле ниже.
                     </p>
                     <form>
-                        <div class="mb-3 row">
+                        <div class="mt-3 mb-3 row">
                             <div class="col-sm-8">
                                 <input type='text' class='form-control' placeholder='Введи ответ в это поле' value={bandName} onChange={handleBandNameChange}/>
                             </div>
