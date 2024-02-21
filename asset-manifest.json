@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mitya-bd/static/css/main.83a95674.css",
+    "main.js": "/mitya-bd/static/js/main.c3bf56c6.js",
+    "index.html": "/mitya-bd/index.html",
+    "main.83a95674.css.map": "/mitya-bd/static/css/main.83a95674.css.map",
+    "main.c3bf56c6.js.map": "/mitya-bd/static/js/main.c3bf56c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83a95674.css",
+    "static/js/main.c3bf56c6.js"
+  ]
+}
