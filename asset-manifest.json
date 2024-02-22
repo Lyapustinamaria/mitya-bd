@@ -1,13 +1,20 @@
 {
   "files": {
-    "main.css": "/mitya-bd/static/css/main.83a95674.css",
-    "main.js": "/mitya-bd/static/js/main.c3bf56c6.js",
+    "main.css": "/mitya-bd/static/css/main.2ad8baad.css",
+    "main.js": "/mitya-bd/static/js/main.53a18a0e.js",
+    "static/media/Asya.mp4": "/mitya-bd/static/media/Asya.3ca91a132e65b6b02f4c.mp4",
+    "static/media/father.mp4": "/mitya-bd/static/media/father.977eaec103a687824f40.mp4",
+    "static/media/Alexandra.mp4": "/mitya-bd/static/media/Alexandra.c8871dfee3dc2a32dba1.mp4",
+    "static/media/grandmother.mp4": "/mitya-bd/static/media/grandmother.df576d82a1819acc094e.mp4",
+    "static/media/first-block.png": "/mitya-bd/static/media/first-block.5af3a5cde1043258a4df.png",
+    "static/media/second-block-v2.jpg": "/mitya-bd/static/media/second-block-v2.3ba50542f511537462cf.jpg",
+    "static/media/generalPresent.jpg": "/mitya-bd/static/media/generalPresent.38c5fadc0d97928cb53a.jpg",
     "index.html": "/mitya-bd/index.html",
-    "main.83a95674.css.map": "/mitya-bd/static/css/main.83a95674.css.map",
-    "main.c3bf56c6.js.map": "/mitya-bd/static/js/main.c3bf56c6.js.map"
+    "main.2ad8baad.css.map": "/mitya-bd/static/css/main.2ad8baad.css.map",
+    "main.53a18a0e.js.map": "/mitya-bd/static/js/main.53a18a0e.js.map"
   },
   "entrypoints": [
-    "static/css/main.83a95674.css",
-    "static/js/main.c3bf56c6.js"
+    "static/css/main.2ad8baad.css",
+    "static/js/main.53a18a0e.js"
   ]
 }
