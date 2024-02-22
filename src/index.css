@@ -13,6 +13,10 @@ h1 {
   text-transform: capitalize;
 }
 
+h2, h3 {
+  color: #004080;
+}
+
 p {
   color: #004080;
   font-family: Roboto;
@@ -20,8 +24,36 @@ p {
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  margin-bottom: 0;
 }
 
-button {
-  color: #004080;
+button.btn-primary {
+  background-color: #004080;
+  border-color: #004080;
+}
+
+.second-block {
+  border-radius: 30px;
+}
+
+.text-right {
+  text-align: right;
+}
+
+.small-text{
+  font-size: 12px;
+}
+
+video {
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.present-img {
+  border-radius: 30px;
+  width: 90%;
+}
+
+.present-header {
+  text-transform: none;
 }

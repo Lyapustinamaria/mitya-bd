@@ -1,6 +1,8 @@
 import React from 'react';
 import { GeneralPresent } from '../components/GeneralPresent';
 import { FirstBlock } from '../components/FirstBlock';
+import { SecondBlock } from '../components/SecondBlock';
+import { VideoBlock } from '../components/VideoBlock';
 
 function Main() {
     return (
@@ -10,6 +12,8 @@ function Main() {
                 <div class="col-10">
                     <React.Fragment>
                         <FirstBlock />
+                        <SecondBlock />
+                        <VideoBlock />
                         <GeneralPresent />
                     </React.Fragment>
                 </div>
