@@ -3,6 +3,7 @@ import { GeneralPresent } from '../components/GeneralPresent';
 import { FirstBlock } from '../components/FirstBlock';
 import { SecondBlock } from '../components/SecondBlock';
 import { VideoBlock } from '../components/VideoBlock';
+import { PhotoCarousel } from '../components/PhotoCarousel';
 
 function Main() {
     return (
@@ -14,6 +15,7 @@ function Main() {
                         <FirstBlock />
                         <SecondBlock />
                         <VideoBlock />
+                        <PhotoCarousel />
                         <GeneralPresent />
                     </React.Fragment>
                 </div>
