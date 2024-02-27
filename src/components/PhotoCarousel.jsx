@@ -6,6 +6,9 @@ import video4 from "../assets/videos/IMG_2372.mp4";
 import video5 from "../assets/videos/IMG_2451.mp4";
 import video6 from "../assets/videos/IMG_2477.mp4";
 import video7 from "../assets/videos/IMG_2550.mp4";
+import video8 from "../assets/videos/video3.mp4";
+import video9 from "../assets/videos/video1.mp4";
+import video10 from "../assets/videos/video2.mp4";
 
 
 
@@ -29,7 +32,7 @@ function PhotoCarousel() {
                 </div>
             </div>
             <div class="row mt-5">
-                <div class="col-2"></div>
+                <div class="col"></div>
                 <div class="col-8">
                     <div id="carouselExampleControls" class="carousel carousel-dark slide" data-bs-interval="false">
                         <div className="carousel-inner">
@@ -49,50 +52,69 @@ function PhotoCarousel() {
                         </button>
                     </div>
                 </div>
-                <div class="col-2"></div>
+                <div class="col"></div>
             </div>
             <div class="row mt-5">
-                <div class="col-4">
+                <div class="col-sm-4">
                     <video controls height="300px">
                         <source src={video2} type="video/mp4"/>
                     </video>
                 </div>
-                <div class="col-2"></div>
-                <div class="col-2">
+                <div class="col"></div>
+                <div class="col-sm-2">
                     <video controls height="300px">
                         <source src={video4} type="video/mp4"/>
                     </video>
                 </div>
-                <div class="col-2">
+                <div class="col-sm-2">
                     <video controls height="300px">
                         <source src={video6} type="video/mp4"/>
                     </video>
                 </div>
-                <div class="col-2">
+                <div class="col-sm-2">
                     <video controls height="300px">
                         <source src={video7} type="video/mp4"/>
                     </video>
                 </div>
             </div>
             <div class="row mt-5">
-                <div class="col-2">
+                <div class="col-sm-2">
                     <video controls height="300px">
                         <source src={video5} type="video/mp4"/>
                     </video>
                 </div>
-                <div class="col-1"></div>
-                <div class="col-2">
+                <div class="col"></div>
+                <div class="col-sm-2">
                     <video controls height="300px">
                         <source src={firstVideo} type="video/mp4"/>
                     </video>
                 </div>
-                <div class="col-1"></div>
-                <div class="col-4">
+                <div class="col"></div>
+                <div class="col-sm-4">
                     <video controls height="300px">
                         <source src={video3} type="video/mp4"/>
                     </video>
                 </div>
-                <div class="col-2"></div>
+                <div class="col"></div>
+            </div>
+            <div class="row mt-5">
+                <div class="col-sm-4">
+                    <video controls height="300px">
+                        <source src={video8} type="video/mp4"/>
+                    </video>
+                </div>
+                <div class="col"></div>
+                <div class="col-sm-2">
+                    <video controls height="300px">
+                        <source src={video9} type="video/mp4"/>
+                    </video>
+                </div>
+                <div class="col"></div>
+                <div class="col-sm-2">
+                    <video controls height="300px">
+                        <source src={video10} type="video/mp4"/>
+                    </video>
+                </div>
             </div>
         </div>
     )

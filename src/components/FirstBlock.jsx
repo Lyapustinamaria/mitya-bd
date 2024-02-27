@@ -5,7 +5,7 @@ function FirstBlock() {
     return (
         <div class="container-fluid mb-5">
             <div class="row">
-                <div class="col-6">
+                <div class="col-sm-6">
                     <h1 class="mt-5 pt-5 mb-5">
                         Митя, 
                         <br/> 
@@ -24,7 +24,7 @@ function FirstBlock() {
                         <b><span class="color-letter">Б</span>езумно люблю тебя!</b>
                     </p>
                 </div>
-                <div class="col-6">
+                <div class="col-sm-6">
                     <img src={firstBlockImage} class="img-fluid" alt="First Block"/>
                 </div>
             </div>

@@ -26,11 +26,11 @@ const GeneralPresent = () => {
                 <div class="container-fluid mt-5">
                     <h1 class="mb-5 present-header">И главный подарочек!</h1>
                     <div class="row mb-5">
-                        <div class="col-6">
+                        <div class="col-sm-6">
                             <p class="mb-3">Необходимо ответить на загадку Жака Фреско: "Сколько козлов вы видите на фотографии?"</p>
                             <img src={photoGeneralPresent} class="img-fluid present-img" alt="Митя и козел"/>
                         </div>
-                        <div class="col-6">
+                        <div class="col-sm-6">
                             <p class="mb-3">
                                 Ура, ты угадал!
                             </p>
@@ -43,11 +43,11 @@ const GeneralPresent = () => {
                 <div class="container-fluid mt-5">
                     <h1 class="mb-5 present-header">И главный подарочек!</h1>
                     <div class="row mb-5">
-                        <div class="col-6">
+                        <div class="col-sm-6 mb-3">
                             <p class="mb-3">Необходимо ответить на загадку Жака Фреско: "Сколько козлов вы видите на фотографии?"</p>
                             <img src={photoGeneralPresent} class="img-fluid present-img" alt="Митя и козел"/>
                         </div>
-                        <div class="col-6">
+                        <div class="col-sm-6">
                             <p class="mb-3">
                                 <b>Шутка!</b>
                                 <br/>
