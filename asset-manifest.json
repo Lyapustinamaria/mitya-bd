@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/mitya-bd/static/css/main.b19ec304.css",
-    "main.js": "/mitya-bd/static/js/main.51c437db.js",
+    "main.js": "/mitya-bd/static/js/main.37b104bb.js",
     "static/media/Andrey.mp4": "/mitya-bd/static/media/Andrey.bd80339e826b1d3a8ad6.mp4",
     "static/media/Asya.mp4": "/mitya-bd/static/media/Asya.3ca91a132e65b6b02f4c.mp4",
     "static/media/Mam.mp4": "/mitya-bd/static/media/Mam.9263b992aa2b3bd6c9a1.mp4",
     "static/media/father.mp4": "/mitya-bd/static/media/father.977eaec103a687824f40.mp4",
     "static/media/IMG_2451.mp4": "/mitya-bd/static/media/IMG_2451.f13a18f50ac405619f17.mp4",
+    "static/media/oleg.mp4": "/mitya-bd/static/media/oleg.bf91c7e0dc51ccc3d289.mp4",
     "static/media/video3.mp4": "/mitya-bd/static/media/video3.9a0e7a1e802148a3c9ad.mp4",
     "static/media/MityaMargherita.mp4": "/mitya-bd/static/media/MityaMargherita.7639cfb819904f8bf07e.mp4",
     "static/media/Yulia.mp4": "/mitya-bd/static/media/Yulia.1d82191167622b3fe4d0.mp4",
@@ -108,10 +109,10 @@
     "static/media/generalPresent.jpg": "/mitya-bd/static/media/generalPresent.38c5fadc0d97928cb53a.jpg",
     "index.html": "/mitya-bd/index.html",
     "main.b19ec304.css.map": "/mitya-bd/static/css/main.b19ec304.css.map",
-    "main.51c437db.js.map": "/mitya-bd/static/js/main.51c437db.js.map"
+    "main.37b104bb.js.map": "/mitya-bd/static/js/main.37b104bb.js.map"
   },
   "entrypoints": [
     "static/css/main.b19ec304.css",
-    "static/js/main.51c437db.js"
+    "static/js/main.37b104bb.js"
   ]
 }
